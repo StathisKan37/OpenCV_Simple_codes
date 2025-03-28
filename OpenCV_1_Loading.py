@@ -23,4 +23,4 @@ cv2.imshow('Grayscale image',img_gray)
 cv2.waitKey(0)  
  
 # Destroying all the windows created
-cv2.destroyAllWindows() 
+cv2.destroyAllWindows()
