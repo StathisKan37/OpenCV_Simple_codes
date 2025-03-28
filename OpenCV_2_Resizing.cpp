@@ -23,6 +23,5 @@ int main() {
 	// Waiting for key 0 to destroy all windows
 	cv::waitKey(0);
 	cv::destroyAllWindows();
-	
     return 0;
 }
